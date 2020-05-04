@@ -9,7 +9,8 @@ public class Hello
   System.out.println("Hello World..." + i);
   System.out.println("This is SP"); 
   System.out.println("This is SP");
-  System.out.pritnln("Output achieved");
+
+
     }
   }
 }
